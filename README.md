@@ -1,7 +1,6 @@
 # Travis API
 
-[![Build Status](https://travis-ci.com/travis-ci/travis-api.svg?branch=master)](https://travis-ci.com/travis-ci/travis-api)
-
+[![Build Status](https://travis-ci.com/travis-ci/travis-api.svg?branch=master)](https://travis-ci.com/jiaqiwang969/tensorflow-CI)
 https://api.travis-ci.org
 
 
