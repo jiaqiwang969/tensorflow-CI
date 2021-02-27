@@ -1,7 +1,7 @@
 language: python
 sudo: required
 arch:
-  - arm64
+  - amd64
 services:
 - docker
 env:
